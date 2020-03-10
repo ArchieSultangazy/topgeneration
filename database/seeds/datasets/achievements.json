@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "ru_name": "Поздравляем! Вы успешно зарегистрировались",
+    "kk_name": null,
+    "en_name": null,
+    "key": "register",
+    "points": 10,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "ru_name": "Урок просмотрен",
+    "kk_name": null,
+    "en_name": null,
+    "key": "finish_lesson",
+    "points": 10,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "ru_name": "Тест завершен",
+    "kk_name": null,
+    "en_name": null,
+    "key": "finish_test",
+    "points": 30,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "ru_name": "Курс завершен",
+    "kk_name": null,
+    "en_name": null,
+    "key": "finish_course",
+    "points": 50,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "ru_name": "Вы ответили на вопрос",
+    "kk_name": null,
+    "en_name": null,
+    "key": "answer",
+    "points": 10,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "ru_name": "Вы задали вопрос",
+    "kk_name": null,
+    "en_name": null,
+    "key": "question",
+    "points": 5,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "ru_name": "Вы опубликовали комментарий",
+    "kk_name": null,
+    "en_name": null,
+    "key": "comment",
+    "points": 5,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "ru_name": "Заполните все данные профиля",
+    "kk_name": null,
+    "en_name": null,
+    "key": "profile_info",
+    "points": 30,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "ru_name": "Авторизация раз в 24 часа",
+    "kk_name": null,
+    "en_name": null,
+    "key": "login",
+    "points": 5,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "ru_name": "Загрузите фотографию",
+    "kk_name": null,
+    "en_name": null,
+    "key": "profile_photo",
+    "points": 100,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "ru_name": "Укажите регион",
+    "kk_name": null,
+    "en_name": null,
+    "key": "profile_region",
+    "points": 100,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 12,
+    "ru_name": "Напишите о себе",
+    "kk_name": null,
+    "en_name": null,
+    "key": "profile_brief",
+    "points": 100,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  }
+]

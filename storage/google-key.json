@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atameken-academy-247711",
+  "private_key_id": "d0445509063dcec918321e6d2d896b6f9f8267e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCP1eYZA+jGns4T\n7uoNEoxr7AQh9YR6TrUH4Rf3w+JQALZFH/uH7VGlNkuEWEka44E8H7W7mQGYhNu2\npF8qvQ7gZptdCQqORm+yhH+828+pPDyjCRI8laXxM6wwB8X9O5Hiqgz7kghFQV78\nFVJ9O0Ib42WlYDsN0MuvOLgjOBGL/vuEpq1Dwu5f9NoYhJeOhaT9nADsGdrHMDgc\nge19sMCpS5FUcwDwvchpcuOGiaPfnewT6XGfD5EnFmqsDhVGJcDTCyaLCOtBECVt\nmD2YpNmNtfALbo7455RCMwcihn5CAGGFptx90tkshlDsA5q0ts3v7Zg40YUAdi+E\nMcRwQhvfAgMBAAECggEAD4dc2buJ0JPJlO5Y14N2pJotEguDO38u3URohYfg8Zk6\nFHlw+wpco7UabxXnAp+oTrjvsmrA+NnzLKNPYPpbVk/NmzxEJvskyQW0Esw6fb9y\nnnl2vhK8AS/+eYsFTaM2S13nm+t2uB9oJVgZ+UpCB2fEDBg5F/NAYlEB1E+T2WTL\nBDqGYGIjLeEXghfGN1mHy7+M4qTCIDTxwDNVhGHYBqOLYtCuAdsAqfF6pQ7CV8RE\njjrwzwiYLvtkGdLLRlUCOt9hLebuV7fFyJPZ1EniJJDHxVvvTX8eJc/0YBXWiSsR\nfAyy31hMeRb/W53y/3HtfKaie57AS8ZR5Nuiq+P8LQKBgQDHsHvqTgPWovhMRnpu\nSurHyYsq6XiHyWz3MtRohk3oevuOYJzfsozlNhOAT+Z4DNaPqIn+jKDsiv8erygT\nMVQMkDAHzv/5ICBal1OvCMKGpJuK6q75FwFZXjpxV5UeRruHX0TLI/S3JdcO6Bfa\nh6zV6JCg3teiqVfdCwn2SVh5dQKBgQC4ZVex3h6gfANut09GL7uHyaBTY6ByMuRq\nR99Z4oO8igLfUbAlYmhxaaznDmzrzMAmOFbkKEDB5Uho6DBEN0ohiFslM2SHlneU\njXLDfXXNBh+J5quNp1fMLbkCC6CKsXSftopXG1clwb4O0JY21gH+TainBR9s10k+\nuuCnZqiBgwKBgF+/f6sZPT3tZqEsKgg4Y9roCJLK38A8FMNy2+ZCf5i5X2UlbhLU\nyjodc7xSk298uGSpq4EibQb+ntVXpx+Mx4A+oskbuCD8Bodph/alfKCSzQIPBVbq\ncPso81zlYdrij4iZZaMB2pT2z+eV4doms/jdSnvYXgzgpgCXCm/NO18BAoGBALWZ\nYP9UMLd+yuab85+83KSDRrk5ccdmJZwiAm6EbZceGGwVCDQZMaEYIOdBRrYHZOl/\nLNvwZK5Qf7qJiRd1mDVkE9eUQJpj7orHr1Gl2oE7WY43NZcBSq9UDFNeXhKZZ7Dv\nVlkpHO+bWfE/LeD9bOMlWkZ6/hL0BzeXVi6nJKa/AoGAQ25WA3EWG66cYte/vj1O\ndMMKnLEocn8O0TGQWVoOdO+WMH7XoQ5DBKAsQwfhwWP6ma47Ct57b+nX+S+2efMv\nJJJR8bwYXV/TzhgJZgPVQP27JuhVEeKlnOWC8pE81Q5K/UWsPecrP5xxyp8YXuvr\nHiN+h/y4peCLk/YGVYU4V6o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "atameken@atameken-academy-247711.iam.gserviceaccount.com",
+  "client_id": "114780858624309085320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atameken%40atameken-academy-247711.iam.gserviceaccount.com"
+}
